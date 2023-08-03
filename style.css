@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;   
+}
+
+.post {
+    background-color: white;
+    margin: 50px auto;
+    width: 370px;
+}
+
+.post-header {
+    padding: 0px 5px;
+    align-items: center;
+    display: flex;
+}
+
+.i-header {
+    width: 7%;
+}
+.i-post-header {
+    width: 5%;
+}
+
+.p-post-header{
+    width:88%;
+    font-size:13px;
+}
+
+i.fa-brands.fa-html5 {
+    font-size: 25px;
+}
+span {
+    font-weight: 600;
+}
+
+.post-body {
+padding: 10px;
+    }
+
+i.fa-regular.fa-bookmark {
+float: right;
+    }
+
+i {
+font-size: 20px;
+padding: 2px;
+    }
+
+.post-body p{
+font-size: 13px;
+}
